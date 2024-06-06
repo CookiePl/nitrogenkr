@@ -48,7 +48,7 @@ export default (() => {
 					sm-margin="0px 0px 12px 0px"
 					letter-spacing="2px"
 				>
-					N I T R O G E N K R
+					C O O K I E P L
 				</Text>
 			</Box>
 			<Box
